@@ -1,3 +1,12 @@
+Trying out a JupyterLite deployment on github pages containing ContourPy and Matplotlib for rendering.
+
+Access the deployment at:
+
+- Lab: https://ianthomas23.github.io/jlite-deployment/lab/index.html
+- REPL: https://ianthomas23.github.io/jlite-deployment/repl/
+
+---
+
 # xeus-python + JupyterLite demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)

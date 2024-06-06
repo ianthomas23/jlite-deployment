@@ -3,5 +3,7 @@ channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
+  - ipympl
+  - contourpy >=1.2.1
+  - matplotlib >=3.8.4
   - xeus-python
-  - ipycanvas
